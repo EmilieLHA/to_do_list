@@ -1,0 +1,15 @@
+.first {
+    margin-top: 150px;
+}
+
+input[type=checkbox]{
+    margin: 20px ;
+}
+
+input:checked + span {
+    text-decoration: line-through;
+}
+
+button img {
+    pointer-events: none;
+}
