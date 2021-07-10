@@ -38,7 +38,7 @@ bouton.addEventListener('click', function() {
 
     // Ajout de la tâche à tous les elements 
     tousLesElements.push(element);
-    console.log(tousLesElements);
+    // console.log(tousLesElements);
     
     // Ajout des éléments au DOM 
 
